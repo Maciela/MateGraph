@@ -1,0 +1,4 @@
+sympy==1.12
+matplotlib==3.8.0
+gradio==4.7.1
+numpy==1.26.1
