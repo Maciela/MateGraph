@@ -888,7 +888,7 @@ iface = gr.Interface(
         gr.Textbox(label='📊 Análisis detallado', lines=15),
         gr.Plot(label='📈 Gráfico de la función')
     ],
-    title='🧮 Graficador de Funciones Reales',
+    title='🧮 Graficadora de Funciones Reales',
     description="""
     **🎯 Analiza y grafica funciones de variable real**
 
